@@ -1,0 +1,7 @@
+@import "~semantic-ui-css/semantic.min.css";
+
+.ui.card > .image > img {
+  width: auto;
+  height: 250px;
+  margin: 10px auto;
+}
